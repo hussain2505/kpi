@@ -1,0 +1,21 @@
+Order Date,Region,Product,Category,Sales,Profit,Quantity
+2025-01-05,North,Laptop,Electronics,55000,8000,2
+2025-01-10,South,Mobile,Electronics,25000,5000,3
+2025-01-15,East,Chair,Furniture,8000,1500,5
+2025-01-20,West,Table,Furniture,12000,2500,2
+2025-02-01,North,Printer,Electronics,15000,3000,1
+2025-02-05,South,Desk,Furniture,18000,4000,2
+2025-02-10,East,Monitor,Electronics,22000,4500,4
+2025-02-15,West,Sofa,Furniture,35000,7000,1
+2025-03-01,North,Keyboard,Accessories,3000,800,10
+2025-03-05,South,Mouse,Accessories,2000,500,15
+2025-03-10,East,Headphones,Accessories,5000,1200,8
+2025-03-15,West,Tablet,Electronics,18000,3500,2
+2025-04-01,North,Laptop,Electronics,60000,10000,2
+2025-04-05,South,Chair,Furniture,9000,1800,6
+2025-04-10,East,Mobile,Electronics,28000,5500,3
+2025-04-15,West,Desk,Furniture,20000,4500,2
+2025-05-01,North,Monitor,Electronics,24000,5000,3
+2025-05-05,South,Sofa,Furniture,38000,7500,1
+2025-05-10,East,Keyboard,Accessories,3500,900,12
+2025-05-15,West,Headphones,Accessories,6000,1500,10
